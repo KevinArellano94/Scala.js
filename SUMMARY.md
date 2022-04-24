@@ -4,8 +4,8 @@
 
 ## Requirements
 
-* [Scala things](requirements/scala-things.md)
-* [Meet the Team!](requirements/meet-the-team.md)
+* [Scala things](requirements/scala-things/README.md)
+  * [A recent version of Java JDK](requirements/scala-things/a-recent-version-of-java-jdk.md)
 
 ## The Formal Stuff
 
